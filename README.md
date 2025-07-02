@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hii 👋 I'm Kundan Krishna<br><br>I'm a passionate developer who loves building projects, learning new technologies, and solving real-world problems through code. I enjoy working with web development, exploring DevOps practices, and continuously improving my skills.
+Hii 👋 I'm Kundan Krishna
+I'm a passionate developer who loves building projects, learning new technologies, and solving real-world problems through code. I enjoy working with web development, exploring DevOps practices, and continuously improving my skills.
 
 
 ## 🌐 Socials:
